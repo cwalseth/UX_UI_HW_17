@@ -110,6 +110,17 @@ ul {
     top: 250px;
     left: 1200px;
 }
+button {
+    position: absolute;
+    width: 110px;
+    background-color: #C93C3C;
+    color: #fffde8;
+    top: 510px;
+    left: 625px;
+}
+button:hover {
+    background-color: #496D84;
+}
 
 footer {
     height: 50px;
